@@ -101,8 +101,19 @@ nav .button-collapse i {
 
 .aftermovie-vid {
     display: block;
-    margin: 0 auto;
+    margin: 5px auto;
     background: black;
+    width: 100%;
+}
+
+.google-maps {
+    width: 100%;
+}
+
+.contact {
+    color: #959595;
+    font-size: 1.1em;
+    text-align: justify;
 }
 
 .page-footer {
