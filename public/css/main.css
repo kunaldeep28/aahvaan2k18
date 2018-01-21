@@ -99,6 +99,24 @@ nav .button-collapse i {
     color: #909090;
 }
 
+.video-panel {
+    background: url("../images/color1.jpg");
+    padding-top: 20px;
+    padding-bottom: 50px;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+    -o-background-size:cover;
+    /* background-attachment: fixed; */
+}
+
+.header-white {
+    color: #e0e0e0;
+    /* text-transform: uppercase; */
+    text-align: center;
+    font-weight: 500;
+}
+
 .aftermovie-vid {
     display: block;
     margin: 5px auto;
