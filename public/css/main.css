@@ -104,3 +104,11 @@ nav .button-collapse i {
     margin: 0 auto;
     background: black;
 }
+
+.page-footer {
+    background: rgba(60, 60, 60, 0.75);
+}
+
+.page-footer .footer-copyright {
+    background-image: rgba(51, 51, 51, 0.2);
+}
