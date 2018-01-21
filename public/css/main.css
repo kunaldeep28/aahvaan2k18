@@ -60,6 +60,10 @@ nav .button-collapse i {
     Copy Text
 }
 
+.campus-a {
+    color: orange;
+}
+
 .events {
     margin-top: 20px;
     /* border: 2px solid black; */
@@ -68,6 +72,11 @@ nav .button-collapse i {
     -webkit-box-shadow: 7px 11px 30px 1px rgba(0, 0, 0, 0.38);
     -moz-box-shadow: 7px 11px 30px 1px rgba(0, 0, 0, 0.38);
     box-shadow: 7px 11px 30px 1px rgba(0, 0, 0, 0.38);
+}
+
+.events-a {
+    margin: 5px auto;
+    border-radius: 2em;
 }
 
 .divided-para {
